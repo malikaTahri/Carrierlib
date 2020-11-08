@@ -8,5 +8,16 @@
     "name": "db",
     "user": "",
     "connector": "mongodb"
+  },
+  "heroku_dlw8mlv3": {
+    "host": "ds019956.mlab.com",
+    "port": 19956,
+    "url": "mongodb://malika:0789mB!!@ds019956.mlab.com:19956/heroku_dlw8mlv3",
+    "database": "heroku_dlw8mlv3",
+    "password": "0789mB!!",
+    "name": "heroku_dlw8mlv3",
+    "user": "malika",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
   }
 }
