@@ -14,28 +14,31 @@
     ]
   },
   "User": {
-    "dataSource": "heroku_dlw8mlv3"
+    "dataSource": "db"
   },
   "AccessToken": {
-    "dataSource": "heroku_dlw8mlv3",
+    "dataSource": "db",
     "public": false
   },
   "ACL": {
-    "dataSource": "heroku_dlw8mlv3",
+    "dataSource": "db",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "heroku_dlw8mlv3",
+    "dataSource": "db",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "heroku_dlw8mlv3",
+    "dataSource": "db",
     "public": false
   },
+  "Profile": {
+    "dataSource": "db"
+  },
   "Note": {
-    "dataSource": "heroku_dlw8mlv3"
+    "dataSource": "db"
   }
 }

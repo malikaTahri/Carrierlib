@@ -1,0 +1,19 @@
+{
+    "name": "Profile",
+    "plural": "Profiles",
+    "base": "PersistedModel",
+    "properties": {
+      "user_id": {
+        "type": "string",
+        "required": true
+      },
+      "phone_number": {
+        "type": "string"
+      }
+    },
+    "validations": [],
+    "relations": {},
+    "acls": [],
+    "methods": {}
+  }
+  
